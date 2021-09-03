@@ -22,8 +22,5 @@ for(const color of colors) {
         h1.innerHTML = 'Clicked color is: ';
         clickedColor.innerHTML = color;
         clickedColor.style.backgroundColor = color;
-
     })
-
-
 }
